@@ -1,0 +1,5 @@
+* use 50 as default in page select
+* improve looks
+* improve ordering according to dicom tags
+* add another page with UUIDs
+* find a way to load page faster
